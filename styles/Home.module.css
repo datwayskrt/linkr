@@ -129,7 +129,8 @@ text-fill-color: transparent;
 }
 
 .grid img {
-  background: radial-gradient(50% 50% at 50% 50%, #D776EF 0%, rgba(215, 118, 239, 0) 100%);
+  
+background: radial-gradient(50% 50% at 50% 50%, #D776EF 0%, rgba(215, 118, 239, 0) 100%);
 }
 
 .card {
@@ -210,6 +211,12 @@ text-fill-color: transparent;
     width: 100%;
     flex-direction: column;
   }
+
+  .grid img {
+    width: 90%;
+    margin-top: -20px;
+  }
+
   .description {
     font-size: 1rem;
   }
