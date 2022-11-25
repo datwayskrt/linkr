@@ -20,7 +20,7 @@ export default function Home() {
         <div>
         <a href='#'>join waiting list</a>
         <button>
-          =
+          <img src="hamburger.png" alt="hamburger"/>
         </button>
         </div>
       </div> 
